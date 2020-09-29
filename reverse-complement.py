@@ -6,7 +6,7 @@ VERSION
     1.0
     
 AUTHOR
-	Hely Salgado
+	Salvador Gonzalez Juarez
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
