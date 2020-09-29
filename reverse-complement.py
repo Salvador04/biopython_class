@@ -6,7 +6,7 @@ VERSION
     1.0
     
 AUTHOR
-	Salvador Gonzalez Juarez
+	Salvador Gonzalez Juarez <salglzj@lcg.unam.mx>
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
